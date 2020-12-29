@@ -1,5 +1,7 @@
 # Question
 
+## [Deployed link](https://blissful-lumiere-50490c.netlify.app/)
+
 ## Pages
 
 - Home Page
