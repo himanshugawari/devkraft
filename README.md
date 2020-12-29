@@ -1,3 +1,33 @@
+# Question
+
+## Pages
+
+- Home Page
+- Login Page (landing page)
+- Register Page
+
+## form (validation )
+
+- profile photo (only images) 500kb
+- name (a-Z)
+- email (@.)
+- phone no (10 digit)
+- gender radioinput (male default)
+- address
+- DOB (18+<50)
+- pasword 1 caps 1 small 1 symbol 1 digit min 8 digits mandatory :- Note(not implemented)
+- confirm password same as password
+
+## state management (redux)
+
+- user folder contains actions,types and reducer for the whole app.
+- store files containes roort reducer and all middleware (loggers etc)
+
+## FLOW
+
+- guest user -> login page -> register page -> login page -> home ('/')
+- user -> login page -> home ('/')
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
